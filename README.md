@@ -1,0 +1,1 @@
+"# coved-detect-app" 
